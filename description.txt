@@ -1,0 +1,10 @@
+1. npx create-react-app react-firebase-hwitter
+
+2.  Github에서 repository 생성.
+
+3. git remote add origin https://github.com/hjho/react-firebase-hwitter
+
+4. 불필요 파일제거 후 
+    - git add .
+    - git commit -m "Clean"
+    - git push origin master
