@@ -9,12 +9,12 @@ function Navigation({ hwitter }) {
         <nav>
             <ul style={{ display: "flex", justifyContent: "center", marginTop: 50 }}>
                 <li>
-                    <Link to="/" tyle={{ marginRight: 10 }}>
+                    <Link to="/react-firebase-hwitter" tyle={{ marginRight: 10 }}>
                         <FontAwesomeIcon icon={faTwitter} color={"#04AAFF"} size="2x" />
                     </Link>
                 </li>
                 <li>
-                    <Link to="/profile" 
+                    <Link to="/react-firebase-hwitter/profile" 
                         style={{
                             marginLeft: 10,
                             display: "flex",

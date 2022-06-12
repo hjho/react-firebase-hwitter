@@ -22,19 +22,19 @@ const AppRouter = ({refreshHwitter, isLogin, hwitter}) => {
                 justifyContent: "center",
                 }}
             >
-                <Route exact path="/">
+                <Route exact path="/react-firebase-hwitter">
                     <Home hwitter={hwitter} />
                 </Route>
-                <Route exact path="/profile">
+                <Route exact path="/react-firebase-hwitter/profile">
                     <Profile hwitter={hwitter} refreshHwitter={refreshHwitter}/>
                 </Route>
             </div>
             ) : (
             <div>
-                <Route exact path="/">
+                <Route exact path="/react-firebase-hwitter">
                     <Auth />
                 </Route>
-                <Redirect from="*" to="/" />
+                <Redirect from="*" to="/react-firebase-hwitter" />
             </div>
             )}
             </Switch>

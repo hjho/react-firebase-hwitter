@@ -15,7 +15,7 @@ function Profile({ refreshHwitter, hwitter }) {
     }
     const onLogOutClick = () => {
         auth.signOut();
-        history.push("/");
+        history.push("/react-firebase-hwitter");
     };
     const getMyProfile = async () => {
         const q = query(
