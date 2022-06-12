@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-firebase-hwitter/static/css/main.d34172d5.css",
+    "main.js": "/react-firebase-hwitter/static/js/main.9b9352ca.js",
+    "index.html": "/react-firebase-hwitter/index.html",
+    "main.d34172d5.css.map": "/react-firebase-hwitter/static/css/main.d34172d5.css.map",
+    "main.9b9352ca.js.map": "/react-firebase-hwitter/static/js/main.9b9352ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d34172d5.css",
+    "static/js/main.9b9352ca.js"
+  ]
+}
