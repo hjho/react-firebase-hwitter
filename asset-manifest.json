@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-firebase-hwitter/static/css/main.d34172d5.css",
-    "main.js": "/react-firebase-hwitter/static/js/main.9b9352ca.js",
+    "main.js": "/react-firebase-hwitter/static/js/main.2da4d1f8.js",
     "index.html": "/react-firebase-hwitter/index.html",
     "main.d34172d5.css.map": "/react-firebase-hwitter/static/css/main.d34172d5.css.map",
-    "main.9b9352ca.js.map": "/react-firebase-hwitter/static/js/main.9b9352ca.js.map"
+    "main.2da4d1f8.js.map": "/react-firebase-hwitter/static/js/main.2da4d1f8.js.map"
   },
   "entrypoints": [
     "static/css/main.d34172d5.css",
-    "static/js/main.9b9352ca.js"
+    "static/js/main.2da4d1f8.js"
   ]
 }
