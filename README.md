@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+니꼴라스님의 "트위터 클론코드"
+ - https://nomadcoders.co/nwitter
+ - 4시간 정도
+ - 2022년 6월
+\
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
